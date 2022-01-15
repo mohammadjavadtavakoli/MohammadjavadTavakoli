@@ -25,7 +25,7 @@ Find out more about me:
 
   <br />  
 
-<center>![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadjavadtavakoli&hide=contribs,prs)</center>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadjavadtavakoli&hide=contribs,prs)
 
 
 
