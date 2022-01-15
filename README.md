@@ -16,7 +16,7 @@ Find out more about me:
     <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
     <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
     <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>  
-    <a href="https://www.microsoft.com/sql-server/" target="_blank"><img align="left" alt="Microsoft SQL Server" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" /></a>
+    <a href="https://www.microsoft.com/sql-server/" target="_blank"><img align="left" alt="Microsoft SQL Server" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" /></a>
 
   </p>
   <br />
